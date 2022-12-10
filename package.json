@@ -11,7 +11,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "ejs": "^2.5.7",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "file-system": "^2.2.2",
     "fs": "0.0.1-security",
     "json2csv": "^4.5.1",
